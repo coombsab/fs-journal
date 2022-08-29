@@ -56,7 +56,9 @@ Within the body tag
 **9.** What three tags can be used to make lists (not list items)?
 <!-- enter you answer in the space below -->
 ```
-
+ol for ordered list
+ul for unordered list
+dl for description list
 ```
 
 **10.** Define the display `:flex property:`
@@ -68,5 +70,5 @@ Tries to line up children elements in the same row, left to right instead of top
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
 ```
-
+height and width
 ```
