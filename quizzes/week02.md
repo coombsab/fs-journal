@@ -52,7 +52,7 @@ The iterator, i++
 **8.** What does the `DOM` acronym stand for? Which file is first accessed to render the `DOM`?
 <!-- enter you answer in the space below -->
 ```
-
+Document Object Model, index.html
 ```
 
 **9.** What are the `9` ECMAScript types as defined by MDN?
