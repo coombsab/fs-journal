@@ -13,7 +13,11 @@ A function is a small block of code (subprogram) used for a specific task.
 **3.** What are the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
-
+S - Single Responsibility
+O - Open-Closed
+L - Liskov Substitution
+I - Interface Segregation
+D - Dependency Inversion
 ```
 **4.** Given this array: 
 ```js
@@ -38,7 +42,7 @@ you.friends.push(them)
 **6.** Give an example of a JavaScript `Conditional`:
 <!-- enter you answer in the space below -->
 ```
-
+if else statements, switch statements, 
 ```
 **7.** In the `for loop` below, what is the name of the piece that belongs inside the empty "______" space? What would you put here to increase `i` by one on every iteration?
 ```js
@@ -58,6 +62,7 @@ Document Object Model, index.html
 **9.** What are the `9` ECMAScript types as defined by MDN?
 <!-- enter you answer in the space below -->
 ```
+number, string, boolean, undefined, null, symbol, object, array (only 8?)
 
 ```
 **10.** When it comes to functions or methods, what is the difference between a `parameter` and an `argument`?
@@ -68,5 +73,5 @@ A parameter is the variable in the function and an argument is the variable pass
 **11.** What is the difference between a `primitive` value and a `reference` value?
 <!-- enter you answer in the space below -->
 ```
-
+primitive are basic data types and reference are more complex or combined types
 ```
