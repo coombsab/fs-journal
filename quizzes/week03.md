@@ -16,17 +16,17 @@ let property = 'name'
 ```
 <!-- enter you answer in the space below -->
 ```
-
+Maybe... staff[property]
 ```
 **3.** What is Encapsulation?
 <!-- enter you answer in the space below -->
 ```
-
+Encapsulation is making internal variables and functions private so an external user down the line cannot access them; they can only use the public methods to manipulate internal data.
 ```
 **4.** What does the S stand for in the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
-
+Single Responsibility
 ```
 **5.** What the difference between a `class` and an instance of a `class`?
 <!-- enter you answer in the space below -->
