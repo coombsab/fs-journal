@@ -3,7 +3,7 @@
 **1.** What are the Pillars of Object Oriented Programming (`OOP`)?
 <!-- enter you answer in the space below -->
 ```
-
+encapsulation, inheritance, polymorphism
 ```
 **2.** How would you access the `name` of the below object using the `property` variable?
 ```js
@@ -31,7 +31,7 @@ Single Responsibility
 **5.** What the difference between a `class` and an instance of a `class`?
 <!-- enter you answer in the space below -->
 ```
-
+A class is more like an outline for what an object should have while an instance of a class is the object created from that outline.
 ```
 **6.** What is a `Proxy` object?
 <!-- enter you answer in the space below -->
