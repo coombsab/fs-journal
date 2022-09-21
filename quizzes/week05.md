@@ -16,7 +16,7 @@ D delete
 **3.** What does `ORM` stand for? Which `ORM` do we use when interacting with MongoDB
 <!-- enter you answer in the space below -->
 ```
-
+object relational mapper, document-oriented database
 ```
 **4.** Which two `HTTP` request types include a body?
 <!-- enter you answer in the space below -->
@@ -36,7 +36,8 @@ let Schema = ________.Schema;
 ```
 <!-- enter you answer in the space below -->
 ```
-
+import mongoose from "mongoose"
+let Schema = mongoose.Schema
 ```
 **7.** What is middleware?
 <!-- enter you answer in the space below -->
