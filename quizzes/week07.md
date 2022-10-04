@@ -30,7 +30,7 @@ v-model is used to add an editable/reactive variable to the value of input field
 **6.** The `v:on` (`@`) directive can be used for what?
 <!-- enter you answer in the space below -->
 ```
-
+v:on or @ is the vue version of onclick or onsubmit (etc) but still leaves the ability for the developer to use onclick or onsubmit for places that reactivity is not necessary...v:on/@ have to do with event handlers/listeners and tying into the vue reactivity
 ```
 **7.** Which Vue attributes(directives) could you use to conditionally render elements on a page?
 <!-- enter you answer in the space below -->
